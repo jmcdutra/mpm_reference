@@ -1,10 +1,10 @@
 {
-    "validator": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/...", "author": "dutra", "license": "MIT"},
-    "stringfy": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/...", "author": "dutra", "license": "MIT"},
-    "check": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/...", "author": "dutra", "license": "MIT"},
-    "simple-uuid": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/...", "author": "dutra", "license": "MIT"},
-    "tablefy": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/jmcdutra/mpm_tablefy", "author": "dutra", "license": "MIT"},
-    "text-to-speech": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/...", "author": "dutra", "license": "MIT"},
-    "sequelize": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/...", "author": "dutra", "license": "MIT"},
-    "lua-classes": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/...", "author": "dutra", "license": "MIT"}
+    "tablefy": {
+        "active": true, 
+        "deprecated": false, 
+        "version": "1.0.0", 
+        "repo": "https://github.com/jmcdutra/mpm_tablefy", 
+        "git_author": "jmcdutra", 
+        "git_repo": "mpm_tablefy"
+    },
 }
