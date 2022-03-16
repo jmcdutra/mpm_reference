@@ -1,5 +1,5 @@
 {
-    "validator": {"active": "true", "deprecated": false, "version": "1.0.0", "repo": "https://github.com/...", "author": "dutra", "license": "MIT"},
+    "validator": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/...", "author": "dutra", "license": "MIT"},
     "stringfy": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/...", "author": "dutra", "license": "MIT"},
     "check": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/...", "author": "dutra", "license": "MIT"},
     "simple-uuid": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/...", "author": "dutra", "license": "MIT"},
