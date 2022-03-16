@@ -1,3 +1,4 @@
 {
     "tablefy": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/jmcdutra/mpm_tablefy", "git_user": "jmcdutra", "git_repo": "mpm_tablefy"}
+    "stringfy": {"active": true, "deprecated": false, "version": "1.0.0", "repo": "https://github.com/jmcdutra/mpm_stringfy", "git_user": "jmcdutra", "git_repo": "mpm_stringfy"}
 }
